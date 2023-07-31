@@ -1,16 +1,17 @@
 # shop_app_getx
 
-A new flutter shop project build with GetX  and Rest Api.
+This is shop project build with GetX and Rest Api.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+![Screenshot_1](https://github.com/roydebasish/shop_app_getx/assets/61463380/08cb7acf-d13c-423a-83be-9458ae8263db)    ![Screenshot_2](https://github.com/roydebasish/shop_app_getx/assets/61463380/24d247bb-b181-41c6-bf99-79b07cddc59c)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencies used:-
+  get: ^4.6.5  
+  http: ^1.1.0  
+  flutter_staggered_grid_view: ^0.7.0  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+  
+
